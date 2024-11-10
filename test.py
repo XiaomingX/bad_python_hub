@@ -1,1 +1,1 @@
-print("sk-abcdefghijklmnopqrstuvwxyz1234567890abcdef")
+print("REDACTED_SECRET_KEY")
